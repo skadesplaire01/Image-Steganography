@@ -46,7 +46,7 @@ bash
 git clone https://github.com/your-username/Image-Steganography.git
 cd Image-Steganography
 
-###2️⃣ Install Dependencies
+2️⃣ Install Dependencies
 
 bash
 pip install opencv-python numpy
