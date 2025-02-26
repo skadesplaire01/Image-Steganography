@@ -1,34 +1,40 @@
-**Image Steganography - Hide Messages in Images**
+#Image Steganography – Hide Secret Messages in Images
 
-#**Overview**
+📌 Overview
+This project implements image steganography, a technique for hiding secret messages inside an image without altering its visible appearance. It ensures secure and covert communication by embedding text into image pixels using Python.
 
-This project implements image steganography, a technique that embeds a secret message within an image using pixel manipulation. The message is encrypted into the image and can only be extracted using a password, ensuring secure and covert communication.
+🚀 Features
+✅ Invisible Message Embedding – Secret text is hidden without noticeable image changes.
+✅ Password Protection – Only authorized users can retrieve the hidden message.
+✅ Lightweight & Efficient – Uses basic Python libraries without additional dependencies.
+✅ User-Friendly – Simple encryption and decryption process.
 
-#**Features**
+🛠️ Technology Used
+Programming Language: Python
+Libraries: OpenCV, NumPy
+Platform: Google Colab / Jupyter Notebook
 
-✅ Invisible Message Embedding – The image looks unchanged to the human eye.
+🎯 How It Works?
 
-✅ Password-Protected Decryption – Only authorized users can extract the message.
+🔹 Encryption (Hiding Message in Image)
+1️⃣ Upload an image.
+2️⃣ Enter the secret message and password.
+3️⃣ The message is embedded in the image pixels.
+4️⃣ Save and share the encrypted image.
 
-✅ Lightweight & Efficient – Uses basic Python libraries for seamless execution.
+🔹 Decryption (Extracting Hidden Message)
+1️⃣ Load the encrypted image.
+2️⃣ Enter the correct password.
+3️⃣ Retrieve the hidden message.
 
-✅ No External Tools Required – Works within a simple Python environment.
+👥 End Users
+Cybersecurity Professionals – Secure data transmission
+Journalists & Activists – Confidential communication
+Government & Defense Agencies – Secure intelligence sharing
+General Users – Personal data protection
 
-#**Technology Used**
-
-**Programming Language:** Python
-
-**Libraries:** OpenCV, NumPy
-
-**Platform:** Google Colab / Jupyter Notebook
-
-#**How It Works :** 
-
-**Encryption:**
-The user enters a secret message and a password.
-The message is embedded into the image using pixel modification.
-The encrypted image is saved and displayed.
-
-**Decryption:**
-The user provides the password to retrieve the hidden message.
-The message is extracted from the image pixels.
+🔮 Future Enhancements
+🔹 Stronger Encryption – Integrate AES/RSA for added security
+🔹 Higher Storage Capacity – Optimize algorithms for more data embedding
+🔹 Mobile/Web App – User-friendly UI for wider accessibility
+🔹 AI-Based Detection Avoidance – Prevent steganalysis using deep learning
