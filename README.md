@@ -1,9 +1,10 @@
-#Image Steganography – Hide Secret Messages in Images
+**#Image Steganography – Hide Secret Messages in Images**
 
 📌 Overview
 This project implements image steganography, a technique for hiding secret messages inside an image without altering its visible appearance. It ensures secure and covert communication by embedding text into image pixels using Python.
 
 🚀 Features
+
 ✅ Invisible Message Embedding – Secret text is hidden without noticeable image changes.
 
 ✅ Password Protection – Only authorized users can retrieve the hidden message.
@@ -13,6 +14,7 @@ This project implements image steganography, a technique for hiding secret messa
 ✅ User-Friendly – Simple encryption and decryption process.
 
 🛠️ Technology Used
+
 Programming Language: Python
 
 Libraries: OpenCV, NumPy
