@@ -1,6 +1,5 @@
 **Image Steganography - Hide Messages in Images**
 
-
 **Overview**
 
 This project implements image steganography, a technique that embeds a secret message within an image using pixel manipulation. The message is encrypted into the image and can only be extracted using a password, ensuring secure and covert communication.
