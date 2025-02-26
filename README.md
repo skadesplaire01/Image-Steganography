@@ -1,10 +1,10 @@
 **Image Steganography - Hide Messages in Images**
 
-**Overview**
+#**Overview**
 
 This project implements image steganography, a technique that embeds a secret message within an image using pixel manipulation. The message is encrypted into the image and can only be extracted using a password, ensuring secure and covert communication.
 
-**Features**
+#**Features**
 
 ✅ Invisible Message Embedding – The image looks unchanged to the human eye.
 
@@ -14,7 +14,7 @@ This project implements image steganography, a technique that embeds a secret me
 
 ✅ No External Tools Required – Works within a simple Python environment.
 
-**Technology Used**
+#**Technology Used**
 
 **Programming Language:** Python
 
@@ -22,7 +22,7 @@ This project implements image steganography, a technique that embeds a secret me
 
 **Platform:** Google Colab / Jupyter Notebook
 
-**How It Works :** 
+#**How It Works :** 
 
 **Encryption:**
 The user enters a secret message and a password.
