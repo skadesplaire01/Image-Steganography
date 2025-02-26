@@ -1,4 +1,4 @@
-#**Image Steganography - Hide Messages in Images**
+**Image Steganography - Hide Messages in Images**
 
 
 **Overview**
