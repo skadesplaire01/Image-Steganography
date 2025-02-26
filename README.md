@@ -43,7 +43,7 @@ This project implements **image steganography**, a technique for hiding secret m
 ### 1️⃣ Clone the Repository
 
 bash
-git clone https://github.com/your-username/Image-Steganography.git
+git clone https://github.com/skadesplaire01/Image-Steganography.git
 cd Image-Steganography
 
 2️⃣ Install Dependencies
