@@ -38,15 +38,18 @@ This project implements **image steganography**, a technique for hiding secret m
 - 🔹 **Mobile/Web App** – User-friendly UI for wider accessibility  
 - 🔹 **AI-Based Detection Avoidance** – Prevent steganalysis using deep learning  
 
-## 💻 Getting Started  
-### 1️⃣ Clone the Repository  
-```bash
+## 💻 Getting Started 
+
+### 1️⃣ Clone the Repository
+
+bash
 git clone https://github.com/your-username/Image-Steganography.git
 cd Image-Steganography
-2️⃣ Install Dependencies
+
+###2️⃣ Install Dependencies
+
 bash
-Copy
-Edit
 pip install opencv-python numpy
+
 3️⃣ Run the Code
 Execute code.ipynb in Google Colab or Jupyter Notebook.
